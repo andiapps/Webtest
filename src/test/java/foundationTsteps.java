@@ -41,6 +41,7 @@ public class foundationTsteps {
         // Write code here that turns the phrase above into concrete actions
         WebDriverWait wait = new WebDriverWait(driver, 10);
         wait.until(ExpectedConditions.titleContains(pageTitleStart));
+        //test
     }
 
 
