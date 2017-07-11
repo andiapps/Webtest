@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 1152014236,
+  "duration": 1281791314,
   "status": "passed"
 });
 formatter.scenario({
@@ -37,7 +37,7 @@ formatter.match({
   "location": "foundationTsteps.iAmOnTheGoogleSearchPage()"
 });
 formatter.result({
-  "duration": 1135905686,
+  "duration": 1382318309,
   "status": "passed"
 });
 formatter.match({
@@ -50,7 +50,7 @@ formatter.match({
   "location": "foundationTsteps.iSearchFor(String)"
 });
 formatter.result({
-  "duration": 2112835895,
+  "duration": 2341683428,
   "status": "passed"
 });
 formatter.match({
@@ -63,11 +63,11 @@ formatter.match({
   "location": "foundationTsteps.thePageTitleShouldStartWith(String)"
 });
 formatter.result({
-  "duration": 16084095,
+  "duration": 28865895,
   "status": "passed"
 });
 formatter.after({
-  "duration": 4554912,
+  "duration": 3795328,
   "status": "passed"
 });
 });
